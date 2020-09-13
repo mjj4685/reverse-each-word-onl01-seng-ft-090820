@@ -5,7 +5,3 @@ def reverse_each_word(greeting)
      "Hello there, and how are you?"
   end
 end
-
-
-
-  
