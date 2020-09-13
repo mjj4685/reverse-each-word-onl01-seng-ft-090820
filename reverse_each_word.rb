@@ -1,7 +1,7 @@
 
 
 def reverse_each_word(greeting)
-  greeting.reverse_each do |hello|
+  greeting.reverse do |hello|
      "Hello there, and how are you?"
   end
 end
