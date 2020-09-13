@@ -5,5 +5,3 @@ def reverse_each_word(greeting)
   reversed_greeting = a.each { |x| x.reverse!}
   return reversed_greeting.join(" ")
 end
-
-
